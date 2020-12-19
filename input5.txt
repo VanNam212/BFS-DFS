@@ -1,0 +1,16 @@
+10 15
+A C 9
+A D 7
+A E 13
+A F 20
+C H 6
+D H 8
+D E 4
+E K 4
+E I 3
+F G 4
+F I 6
+H K 5
+I B 5
+I K 9
+K B 6
